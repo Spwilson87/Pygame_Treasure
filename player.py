@@ -18,3 +18,19 @@ class Player(GameObject):
 
         self.y += (direction * self.speed)
     
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    #spw
