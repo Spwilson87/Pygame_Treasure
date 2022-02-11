@@ -1,6 +1,10 @@
 # Pygame_treasure
-Uses pygame == 2.1.0
-A simple game where you move up and down and try to reach the treasure adds more enemys an speeds up upon getting the treasure
+
+Uses Python 3.10.0 and Pygame 2.1.0
+
+I have created a simple game in Python using Pygame where you move up and down and try to reach the treasure without hitting the enemy.
+Each time you get the treasure there are more enemys and they speed up.
+
 
 ![1](https://user-images.githubusercontent.com/94057901/153661438-323892c0-1133-463d-bb5a-4788333c3664.png)
 ![2](https://user-images.githubusercontent.com/94057901/153661588-b22160be-fe25-422e-8383-81f2298779ee.png)
