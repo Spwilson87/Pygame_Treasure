@@ -1,5 +1,7 @@
+#Imports gameobject class from gameobject.py
 from gameObject import GameObject
 
+# creates player class using gameobject class as a base
 class Player(GameObject):
 
     def __init__(self, x, y, width, height, image_path, speed):
@@ -17,20 +19,3 @@ class Player(GameObject):
 
 
         self.y += (direction * self.speed)
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    #spw

@@ -1,5 +1,7 @@
+#Imports gameobject class from gameobject.py
 from gameObject import GameObject
 
+# creates enemy class using gameobject class as a base
 class Enemy(GameObject):
 
     def __init__(self, x, y, width, height, image_path, speed):

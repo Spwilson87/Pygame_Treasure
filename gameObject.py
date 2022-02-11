@@ -1,5 +1,6 @@
 import pygame
 
+# Creates a class called game object as bluprint
 class GameObject:
 
     def __init__(self, x, y, width, height, image_path):
